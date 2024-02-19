@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header, section, footer {
+    margin: 20px 0;
+}
+
+header h1, section h2 {
+    color: #333;
+}
+
+/* Add more styling rules as needed */
