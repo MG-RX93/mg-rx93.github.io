@@ -1,0 +1,22 @@
+{
+  "about": "I am a passionate software engineer with extensive experience in developing scalable web applications. My expertise lies in modern JavaScript frameworks, and I have a proven track record of delivering high-quality software solutions.",
+  "experience": [
+    {
+      "company": "Company XYZ",
+      "role": "Lead Developer",
+      "years": "2020 - Present",
+      "details": "Lead the development team..."
+    },
+    {
+      "company": "Company ABC",
+      "role": "Software Engineer",
+      "years": "2018 - 2020",
+      "details": "Developed several high-impact web applications..."
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Science in Computer Science",
+    "institution": "University XYZ",
+    "years": "2014 - 2018"
+  }
+}
